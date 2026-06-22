@@ -1,0 +1,19 @@
+{
+  "name": "Wiki defs",
+  "version": "1.0.0",
+  "description": "This ext allow to fast searching of words definitions",
+  "manifest_version": 3,
+  "author": "Bagdat",
+  "permissions": ["activeTab", "scripting", "contextMenus"],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Search a def from Wikipedia"
+  },
+  "icons": {
+    "48": "icon.png"
+  }
+}
