@@ -3,6 +3,8 @@
 A lightweight Chrome extension that lets you instantly look up Wikipedia summaries for any word or phrase — without ever leaving the page.
 
 ![Alt text](./screenshot.png)
+![Alt text](./screenshot2.png)
+
  
 ## Features
  
